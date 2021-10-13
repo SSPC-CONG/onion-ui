@@ -14,7 +14,7 @@ export default {
 
   },
   mounted(){
-    alert(message)
+   
   }
 }
 </script>
