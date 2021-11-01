@@ -11,9 +11,8 @@ export default {
     message: String
   },
   method:{
-
   },
   mounted(){
-  }
+  },
 }
 </script>
